@@ -4,6 +4,6 @@ I'm a 4th year software engineering student specialized in Unity 3D and augmente
 
 You can check out some of my most interesting works !
 
-[a link](https://github.com/KhalilBDJ/Othello_AI)
+[Othello MiniMax AI](https://github.com/KhalilBDJ/Othello_AI)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhalilBDJ&layout=compact)
